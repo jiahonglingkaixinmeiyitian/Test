@@ -1,0 +1,28 @@
+PODS:
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+  - ReactiveSwift (2.0.1):
+    - Result (~> 3.2)
+  - Result (3.2.4)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Mantle
+  - ReactiveSwift
+  - UITableView+FDTemplateLayoutCell
+  - YYKit
+
+SPEC CHECKSUMS:
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  ReactiveSwift: 60a29ff35988a964fd2bb759755cb6594de523fc
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: dd698311964eb33cd65c47a6387752fc551e1ecb
+
+COCOAPODS: 1.4.0.beta.1
