@@ -13,6 +13,13 @@ class LXHomePageViewController: LXBaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        
+        
+        
+        
+        
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
