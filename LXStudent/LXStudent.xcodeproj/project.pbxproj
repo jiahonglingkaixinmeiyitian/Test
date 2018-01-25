@@ -19,6 +19,7 @@
 		6CDAA2921FA85F2000E48D04 /* LXMainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAA27F1FA85F2000E48D04 /* LXMainTabBarController.swift */; };
 		6CDAA2951FA85F2000E48D04 /* UIColor+LXExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAA28C1FA85F2000E48D04 /* UIColor+LXExtension.m */; };
 		703D0E1D68CB224658CF40D8 /* Pods_LXStudent.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 388F9EBCF44A7CA494671FC3 /* Pods_LXStudent.framework */; };
+		B5D47D1920196CF100E56970 /* JHL.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D47D1820196CF100E56970 /* JHL.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		6CDAA28B1FA85F2000E48D04 /* UIColor+LXExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+LXExtension.h"; sourceTree = "<group>"; };
 		6CDAA28C1FA85F2000E48D04 /* UIColor+LXExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+LXExtension.m"; sourceTree = "<group>"; };
 		906C0EDBBC6D344D8FDCA7F8 /* Pods-LXStudent.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LXStudent.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LXStudent/Pods-LXStudent.debug.xcconfig"; sourceTree = "<group>"; };
+		B5D47D1820196CF100E56970 /* JHL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JHL.swift; sourceTree = "<group>"; };
 		F118F221FC7986A79EA91C75 /* Pods-LXStudent.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LXStudent.release.xcconfig"; path = "Pods/Target Support Files/Pods-LXStudent/Pods-LXStudent.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -138,6 +140,7 @@
 				6CDAA2891FA85F2000E48D04 /* Category */,
 				6CDAA2871FA85F2000E48D04 /* MacroFile */,
 				6CDAA2651FA85ECC00E48D04 /* AppDelegate.swift */,
+				B5D47D1820196CF100E56970 /* JHL.swift */,
 				6CDAA26C1FA85ECC00E48D04 /* Assets.xcassets */,
 				6CDAA26E1FA85ECC00E48D04 /* LaunchScreen.storyboard */,
 				6CDAA2711FA85ECC00E48D04 /* Info.plist */,
@@ -368,6 +371,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5D47D1920196CF100E56970 /* JHL.swift in Sources */,
 				6CDAA2661FA85ECC00E48D04 /* AppDelegate.swift in Sources */,
 				6CD697931FA9A26700E9EFC0 /* LXMessageViewController.swift in Sources */,
 				6CD697991FA9A27A00E9EFC0 /* LXHomePageViewController.swift in Sources */,
